@@ -1,0 +1,45 @@
+21 3 4
+(image
+layout=embedded
+height=4
+width=5)
+Xs
+(image height=9 width=4 layout=surrounded) (image
+layout=surrounded width=1 height=4) (image
+height=4 width=5 layout=embedded)
+(image
+layout=embedded height=4
+width=5) (image width=4 height=9 layout=surrounded) (image
+height=2
+layout=embedded
+width=5)
+(image
+layout=surrounded
+height=9 width=4) (image
+width=1 height=4
+layout=surrounded) (image
+layout=surrounded height=9
+width=4) FX
+(image width=4 height=9 layout=surrounded)
+x (image width=4
+height=9 layout=surrounded)
+(image
+layout=embedded
+width=5
+height=2) (image
+layout=surrounded height=4
+width=1) (image width=1 height=4 layout=surrounded)
+: (image layout=surrounded
+height=9 width=4)
+1
+(image
+layout=surrounded height=9 width=4)
+(image
+height=4 layout=embedded width=5)
+Q::
+(image width=4 layout=surrounded height=9)
+(image
+width=5 layout=embedded
+height=2)
+(image height=2 width=5
+layout=embedded)
